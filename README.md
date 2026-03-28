@@ -57,9 +57,6 @@ Run the server:
 
 python manage.py runserver
 
-Open browser and go to:
-
-http://127.0.0.1:8000/
 📁 Dataset
 Uses agricultural datasets (e.g., from Kaggle)
 Data includes soil moisture, temperature, and humidity
